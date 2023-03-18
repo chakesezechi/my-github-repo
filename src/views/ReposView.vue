@@ -98,6 +98,7 @@ export default {
 </script>
 
 <style>
+@import url("https://fonts.googleapis.com/css2?family=Stick&display=swap");
 body {
   font: 15px/1.8 "Poppins", sans-serif !important;
   padding-bottom: 1px;
@@ -120,7 +121,14 @@ body {
   font-size: 20px;
   border-radius: 5px;
   text-decoration: none;
+  font-family: "Stick", sans-serif;
 }
+
+.pagination-previous:hover {
+  color: whitesmoke;
+  background-color: black;
+}
+
 .pagination-next {
   background-color: whitesmoke;
   padding: 15px;
@@ -129,6 +137,12 @@ body {
   font-size: 20px;
   border-radius: 5px;
   text-decoration: none;
+  font-family: "Stick", sans-serif;
+}
+
+.pagination-next:hover {
+  color: whitesmoke;
+  background-color: black;
 }
 
 ul {

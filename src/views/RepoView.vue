@@ -56,7 +56,6 @@ export default {
 </script>
 
 <style>
-@import url("https://fonts.googleapis.com/css2?family=Stick&display=swap");
 .repo-box {
   padding: 20px;
   background-color: whitesmoke;
