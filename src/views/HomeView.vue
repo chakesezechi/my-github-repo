@@ -1,6 +1,6 @@
 <template>
   <div class="home-container">
-    <h1 class="home-title">Github Repos</h1>
+    <h1 class="home-title">My Github Repos</h1>
     <div class="home-photo">
       <img alt="Repo Image" src="../assets/git-logo.png" />
     </div>
