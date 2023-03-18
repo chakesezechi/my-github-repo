@@ -4,9 +4,10 @@
   </head>
 
   <div class="container">
-    <div class="box">
-      <h1 class="title">The page you were looking for doesn't exist.</h1>
-      <p>You may have mistyped the address or the page may have moved.</p>
+    <div class="">
+      <h1 class="h1-class">404</h1>
+      <h3 class="h3-class">Sorry, Page Not Found</h3>
+      <p>The page you requested could not be found</p>
     </div>
   </div>
 </template>
@@ -16,3 +17,12 @@ export default {
   name: "ErrorView",
 };
 </script>
+
+<style>
+.h1-class {
+  font-size: 10rem;
+  margin-bottom: -1rem;
+}
+.h3-class {
+}
+</style>

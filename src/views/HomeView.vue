@@ -47,23 +47,4 @@ export default {
 .footer {
   padding-top: 10%;
 }
-
-/* @media screen and (max-width: 961px) {
-  .home-container {
-    margin: 0 0.5rem;
-  }
-  .home-photo img {
-    width: 130px;
-  }
-} */
-
-/* @media screen and (max-width: 481px) {
-  .home-photo img {
-    width: 100px;
-  }
-
-  .last {
-    margin-right: 0.5rem;
-  }
-} */
 </style>
