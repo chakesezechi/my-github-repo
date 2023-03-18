@@ -113,7 +113,7 @@ body {
 }
 
 .pagination-previous {
-  background-color: #f6f4f9;
+  background-color: whitesmoke;
   padding: 15px;
   margin: 40px;
   border: 1px solid #dbdade;
@@ -122,7 +122,7 @@ body {
   text-decoration: none;
 }
 .pagination-next {
-  background-color: #f6f4f9;
+  background-color: whitesmoke;
   padding: 15px;
   margin: 40px;
   border: 1px solid #dbdade;

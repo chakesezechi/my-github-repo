@@ -14,8 +14,9 @@
 <script></script>
 
 <style>
+@import url("https://fonts.googleapis.com/css2?family=Stick&display=swap");
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Stick", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
@@ -33,20 +34,21 @@ main {
 
 .top-navbar {
   margin: -4rem -1rem 0 -1rem;
-  padding: 20px;
-  background-color: #f6f4f9;
+  padding: 30px;
+  background-color: whitesmoke;
 }
 
 nav a {
   color: #2c3e50;
   text-decoration: none;
-  padding: 8px;
+  padding: 15px;
+  margin: 20px;
   border-radius: 4px;
 }
 
-nav a.router-link-exact-active {
+nav a:hover {
   color: whitesmoke;
-  background-color: blueviolet;
+  background-color: black;
 }
 
 .footer {
