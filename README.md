@@ -1,6 +1,5 @@
 # Alt School Third Semester Exam Project
 
-https://imaginative-medovik-48c3f2.netlify.app
 
 ## Project setup
 
